@@ -1,0 +1,21 @@
+/* Mobile */
+@media (max-width: 480px) {
+	body {
+		background: orange;
+	}
+};
+
+
+/* Tablet */
+@media (min-width: 768px) {
+	body {
+		background: yellow;
+	}
+};
+
+/* Desktop */
+@media (min-width: 992px) {
+	body {
+		background: teal;
+	}
+};
